@@ -1,3 +1,7 @@
+//Sky Vercauteren
+//June 2025
+//Operating Systems
+
 #include <stdlib.h>
 #include <stdio.h>
 #include "MemoryManager.h"

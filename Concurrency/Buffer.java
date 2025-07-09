@@ -1,3 +1,7 @@
+//Sky Vercauteren
+//June 2025
+//Operating Systems
+
 public class Buffer{
 
 	double [] bb = new double[1000]; //at most 1000 items

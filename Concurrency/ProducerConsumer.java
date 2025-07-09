@@ -1,3 +1,7 @@
+//Sky Vercauteren
+//June 2025
+//Operating Systems
+
 public class ProducerConsumer {
 
 	//main

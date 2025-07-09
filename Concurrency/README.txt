@@ -1,3 +1,7 @@
+//Sky Vercauteren
+//June 2025
+//Operating Systems
+
 This assignment includes:
 
 Concurrency.java    // The main process responsible for building and deploying the workers.

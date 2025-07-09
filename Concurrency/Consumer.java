@@ -1,3 +1,7 @@
+//Sky Vercauteren
+//June 2025
+//Operating Systems
+
 public class Consumer implements Runnable{
 	public String name;
 	private Buffer shared;//reference to shared bounded buffer

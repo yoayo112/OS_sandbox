@@ -1,3 +1,7 @@
+//Sky Vercauteren
+//June 2025
+//Operating Systems
+
 #include <stdio.h>
 #include <stdlib.h>
 

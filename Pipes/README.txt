@@ -1,3 +1,7 @@
+//Sky Vercauteren
+//June 2025
+//Operating Systems
+
 Hello! 
 
 Includes Coordinator.c Checker.c Makefile and this README.
